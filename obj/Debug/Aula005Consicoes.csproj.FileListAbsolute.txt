@@ -1,0 +1,8 @@
+C:\Users\isaque.santos2\source\repos\Aula005Consicoes\Aula005Consicoes\obj\Debug\Aula005Consicoes.csproj.AssemblyReference.cache
+C:\Users\isaque.santos2\source\repos\Aula005Consicoes\Aula005Consicoes\obj\Debug\Aula005Consicoes.csproj.SuggestedBindingRedirects.cache
+C:\Users\isaque.santos2\source\repos\Aula005Consicoes\Aula005Consicoes\obj\Debug\Aula005Consicoes.csproj.CoreCompileInputs.cache
+C:\Users\isaque.santos2\source\repos\Aula005Consicoes\Aula005Consicoes\bin\Debug\Aula005Consicoes.exe.config
+C:\Users\isaque.santos2\source\repos\Aula005Consicoes\Aula005Consicoes\bin\Debug\Aula005Consicoes.exe
+C:\Users\isaque.santos2\source\repos\Aula005Consicoes\Aula005Consicoes\bin\Debug\Aula005Consicoes.pdb
+C:\Users\isaque.santos2\source\repos\Aula005Consicoes\Aula005Consicoes\obj\Debug\Aula005Consicoes.exe
+C:\Users\isaque.santos2\source\repos\Aula005Consicoes\Aula005Consicoes\obj\Debug\Aula005Consicoes.pdb
